@@ -1,7 +1,3 @@
-yaml
-services:
-  - type: web
-    name: furnishing
-    runtime: php
-    buildCommand: ""
-    startCommand: ""
+git add render.yaml
+git commit -m "Add render.yaml"
+git push
