@@ -1,0 +1,7 @@
+yaml
+services:
+  - type: web
+    name: furnishing
+    runtime: php
+    buildCommand: ""
+    startCommand: ""
